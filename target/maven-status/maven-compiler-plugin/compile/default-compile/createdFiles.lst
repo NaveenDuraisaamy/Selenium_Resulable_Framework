@@ -1,0 +1,10 @@
+pages\BasePage.class
+pages\LoginPage.class
+pages\DashboardPage.class
+pages\MaintenancePage.class
+pages\MyInfoPage.class
+pages\ModulePage.class
+pages\TimePage.class
+pages\ClaimPage.class
+pages\MainMenuComponent.class
+pages\BuzzPage.class
