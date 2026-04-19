@@ -1,0 +1,1 @@
+[![Playwright Tests](https://github.com/NaveenDuraisaamy/Selenium_Resulable_Framework/actions/workflows/main.yml/badge.svg)](https://github.com/NaveenDuraisaamy/Selenium_Resulable_Framework/actions/workflows/main.yml)
